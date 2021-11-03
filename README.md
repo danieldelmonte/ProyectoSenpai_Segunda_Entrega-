@@ -45,6 +45,7 @@ Segunda entrega del Proyecto referente al curso de Full Stack Developer
 		** CAMBIOS APLICADOS EN ESTA SEGUNDA ENTREGA:			
 					
 			-- Nueva página de Login de usuario (login.html)
+
 			-- Validación y Registro de nuevo Usuario
 				-- Por ahora solo realizamos los metodos, obtenemos la respuesta y nada más. 
 				-- Quedaría a futuro redireccionar al usuario logueado a la página principal y gestionar todo lo relacionado con el Token y demás.
